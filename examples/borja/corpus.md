@@ -1,6 +1,6 @@
 # Selección de textos y correcciones
 
-> Extractos seleccionados de una guía de trabajo de octubre de 2026. Estado de cada muestra indicado. No son transcripciones completas ni garantizan publicación final.
+> Extractos seleccionados de una guía de trabajo de octubre de 2026 (B01–B12) y de la revisión de un artículo de agosto de 2026 (B13–B15). Estado de cada muestra indicado. No son transcripciones completas ni garantizan publicación final.
 
 ## B01 — Cuestionar una etiqueta propia
 **Tipo: AUTHOR_ORIGINAL · Borrador Marketing Engineer, 17/10/2026**
@@ -63,7 +63,7 @@ No consta aquí aprobación explícita de la redacción por parte del autor.
 La versión posterior no implica que los anglicismos estén prohibidos en todo contexto.
 
 ## B11 — Frases vertebradoras de una reflexión personal
-**Tipo: EXPLICIT_FEEDBACK / FRASES CONSERVADAS · «Haz las cosas desde el corazón», 10/10/2026**
+**Tipo: AUTHOR_ORIGINAL · Frases conservadas de «Haz las cosas desde el corazón», 10/10/2026**
 
 > Pensar qué clase de persona quieres ser mientras consigues todas esas cosas.
 
@@ -79,3 +79,32 @@ Se documentan como frases conservadas en la guía de trabajo, no como comprobaci
 > Dentro de seis meses algunos nombres de esta guía habrán cambiado. La recomendación, sin embargo, seguirá siendo la misma: **prueba tu carga de trabajo, no el benchmark**.
 
 Una frase contundente funciona aquí porque resume una recomendación desarrollada; no debe convertirse en muletilla.
+
+## B13 — Una idea partida en dos frases
+**Tipo: COEDITED_COMPARISON · Artículo Helmcode sobre notas de reuniones self-hosted, 11/08/2026**
+
+Primera versión, escrita por un asistente de IA:
+
+> Capturar el micro es trivial en cualquier sistema. Capturar lo que suena por los altavoces depende del sistema operativo, y conviene decirlo sin adornos:
+
+Versión revisada:
+
+> Capturar el micro es trivial en cualquier sistema, pero capturar lo que sale por los altavoces depende del sistema operativo:
+
+El autor señaló el patrón en su revisión: una sola idea repartida en dos frases paralelas, con un meta-anuncio («conviene decirlo sin adornos») que comenta el texto en vez de aportar información. Su comentario literal no se conserva en esta selección.
+
+## B14 — Títulos con glosa tras dos puntos
+**Tipo: COEDITED_COMPARISON · Mismo artículo, 11/08/2026**
+
+| Primera versión (IA) | Versión revisada |
+| --- | --- |
+| Paso 3: quién dijo qué, en tu máquina | Paso 3. Diariza en local |
+| Paso 1: graba en dos pistas, no en una | Paso 1. Graba el micro y el sistema por separado |
+| El problema del que nadie te avisa: el eco | El micrófono capta también a los demás |
+
+El autor marcó el patrón `Etiqueta: glosa, con cola apositiva` como algo que delata un texto generado. Los títulos revisados afirman lo que pasa dentro del apartado.
+
+## B15 — La introducción que resuelve un apartado posterior
+**Tipo: COEDITED_COMPARISON · Mismo artículo, 11/08/2026**
+
+En la misma revisión, el autor señaló que la introducción adelantaba la conclusión de un apartado que venía después («Cuándo no montar esto»). La versión revisada deja que la introducción sitúe el problema y nada más. No se reproduce el párrafo completo.

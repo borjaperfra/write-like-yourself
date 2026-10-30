@@ -12,7 +12,7 @@ This is an **editorial workflow**, not a generic text-polisher. First determine 
 
 ## 1. Decide the mode
 
-- **BUILD:** The user wants to discover/document their voice. Read [editorial-method.md](references/editorial-method.md) and create a draft `VOICE.md`.
+- **BUILD:** The user wants to discover/document their voice. Read [editorial-method.md](references/editorial-method.md) and create a draft `VOICE.md` from [the bundled template](assets/VOICE.template.md).
 - **WRITE:** The user wants a new piece in *their own* established voice. Read their `VOICE.md` if available, and the task brief; write using grounded facts.
 - **EDIT:** The user gives a draft and asks for a rewrite. Apply **minimal, justified changes**; preserve structure, stance, characteristic phrasing and all factual constraints.
 - **REVIEW:** The user wants critique, not a rewrite. Give concrete findings with examples and optional edits; do not replace the entire text.
@@ -38,7 +38,7 @@ Never claim access to earlier conversations, personal files or approvals you can
 7. **No inventions:** do not add fabricated experiences, claims, citations, numbers or approvals.
 8. **Uncertainty stays visible:** mark missing facts; do not convert hypotheses into certainty.
 9. **Source discipline:** separate author-written samples, explicit feedback, coedited comparisons and AI-proposed edits.
-10. **Do not copy someone else:** public example `examples/borja/` is only a demonstration.
+10. **Do not copy someone else:** the public Borja case study (`examples/borja/` in the source repository) is only a demonstration.
 
 ## 4. Output by mode
 
@@ -52,5 +52,6 @@ Never claim access to earlier conversations, personal files or approvals you can
 
 - [Editorial method](references/editorial-method.md)
 - [Evaluation rules](references/evaluation.md)
+- [VOICE.md template](assets/VOICE.template.md)
 
 No scripts, network access, fine-tuning or vendor-specific APIs are required. Skill discovery/install behavior depends on the host agent.

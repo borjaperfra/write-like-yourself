@@ -15,6 +15,6 @@ Do not claim that an agent suggestion represents author preference without confi
 3. Ask the author to correct the resulting rules (not merely endorse an abstract personality).
 4. Keep one or more phrases that **must not be edited** to teach restraint.
 5. Distinguish preferences that belong to a particular channel from general rules.
-6. Create or revise `VOICE.md` using the project's `templates/VOICE.template.md` when present.
+6. Create or revise `VOICE.md` using [the bundled template](../assets/VOICE.template.md).
 
 Don't copy the typos or punchlines from evidence. Don't imply a model was trained or that the guide automatically persists across unrelated sessions.

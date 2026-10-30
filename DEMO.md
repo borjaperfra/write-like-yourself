@@ -6,7 +6,7 @@ Read each A/B pair, choose one, and open the answer *after* all three. The purpo
 
 ## Encargo 1: Email de la Build Night
 
-**Brief:** Email a participantes que ya tienen equipo asignado. Tienen que aceptar la invitación a GitHub, revisar el reto, entrar en WhatsApp y avisar si no pueden ir. No inventar nombres ni enlaces.
+**Brief:** Email a participantes que ya tienen equipo asignado. El evento es el jueves. Tienen que aceptar la invitación a GitHub, revisar el reto, entrar en WhatsApp y avisar si no pueden ir. No inventar nombres ni enlaces.
 
 ### Texto A
 
@@ -42,13 +42,11 @@ Antes de venir, echad un ojo a estas tres cosas:
 
 Si alguien finalmente no puede venir, contestad a este correo cuanto antes. Nos ayudará a reorganizar los equipos.
 
-No hace falta que preparéis ninguna solución de antemano. La idea es construirla juntos el jueves.
-
 ¡Nos vemos allí!
 
 ## Encargo 2: Post de LinkedIn
 
-**Brief:** Anunciar una Build Night en València con unos 50 participantes y equipos construyendo herramientas que faciliten trámites de la administración; en abierto, sin premio ni jurado. No afirmar resultados anticipadamente.
+**Brief:** Anunciar una Build Night este jueves en València, en las oficinas de Flywire, con unos 50 participantes y equipos construyendo herramientas que faciliten trámites de la administración; en abierto, sin premio ni jurado. No afirmar resultados anticipadamente.
 
 ### Texto A
 
