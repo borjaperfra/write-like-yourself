@@ -6,7 +6,7 @@
 Escribir desde experiencia y criterio: tecnología, diseño, comunicación y producto, con explicaciones concretas. Cercanía sin excesos de coloquialismo. Primera persona cuando corresponda; el humor puede aparecer al reconocer dudas o contradicciones reales, no como fórmula.
 
 ## Reglas respaldadas por muestras
-1. **No pulir hasta borrar personalidad.** Si el autor ironiza sobre el propio término que está usando, conservar esa reserva. Evidencia: B01, B07.
+1. **No pulir hasta borrar personalidad.** Si el autor ironiza sobre el propio término que está usando, conservar esa reserva. En la versión publicada, la autocrítica se mantuvo y el juicio sobre terceros se suavizó. Evidencia: B01, B07.
 2. **Ritmo deliberadamente variable.** Variar la longitud de frases y párrafos según lo que pida cada pasaje, sin patrones fijos ni cuotas. Evidencia: B03.
 3. **Concreción y consecuencias.** Ante una frase abstracta, buscar cuál es la decisión real del lector. Evidencia: B05–B06 (coeditado).
 4. **Ejemplos vividos, nunca inventados.** Una definición gana si puede asociarse con trabajos reales. Evidencia: B04.

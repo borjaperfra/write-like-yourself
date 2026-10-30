@@ -1,14 +1,22 @@
 # Selección de textos y correcciones
 
-> Extractos seleccionados de una guía de trabajo de octubre de 2026 (B01–B12) y de la revisión de un artículo de agosto de 2026 (B13–B15). Estado de cada muestra indicado. No son transcripciones completas ni garantizan publicación final.
+> Extractos seleccionados de una guía de trabajo de octubre de 2026 (B01–B12) y de la revisión de un artículo de agosto de 2026 (B13–B15). Estado de cada muestra indicado. No son transcripciones completas. Cuando existe una versión publicada, se enlaza y se cita junto al borrador.
 
 ## B01 — Cuestionar una etiqueta propia
 **Tipo: AUTHOR_ORIGINAL · Borrador Marketing Engineer, 17/10/2026**
 
 > Vamos a utilizar el nombre de marketing engineer, aunque yo de ingeniero tengo poco. Pero nos sirve para que todos nos entendamos. Yo casi que me lo llevaría mucho más hacia un Brand Engineer
 
+**Versión publicada** · [«¿Brand Engineer?: el unicornio que buscan muchas empresas tecnológicas»](https://x.com/borjaperfra/status/2112480095596081261), artículo en X, 20/10/2026:
+
+> Después de darle unas cuantas vueltas, creo que el nombre que más se acerca a lo que intento describir es ¿Brand Engineer? Aunque, la verdad, yo de ingeniero tengo bastante poco.
+
+> Y tampoco pretendo inventar un nombre más, que en tech ya vamos servidos. Solo es una manera de que nos entendamos.
+
+La reserva sobre la etiqueta sobrevivió hasta la versión publicada.
+
 ## B02 — Una voz coloquial sin pulir de más
-**Tipo: AUTHOR_ORIGINAL · Publicación de búsqueda de perfiles, 14/10/2026**
+**Tipo: AUTHOR_ORIGINAL · [Publicación de búsqueda de perfiles en X](https://x.com/borjaperfra/status/2110389540581953740), 14/10/2026**
 
 > Estoy buscando gente con perfil similar al mío. Y me estás costando bastante encontrarlo. Help! Odio decir que hago marketing pero es algo así como: marketing + comunicación + tech + comunidad + algo de GTM (aún odio más decir que hago algo de GTM xD)
 
@@ -45,10 +53,20 @@ No consta aquí aprobación explícita de la redacción por parte del autor.
 
 > Parece ser que no supe explicarlo bien porque el post y los DM's se me llenaron de gente que piensan que son pero no son ese rol. Algunos, ni se acercan.
 
+**Versión publicada** · [mismo artículo en X](https://x.com/borjaperfra/status/2112480095596081261), 20/10/2026:
+
+> Así que publiqué el tuit y me pasó lo que temía. Empezaron a llegarme recomendaciones de perfiles de marketing, DevRel, GTM, desarrolladores que habían hecho alguna campaña y especialistas en automatizaciones. Profesionales que, en muchos casos, eran buenos en lo suyo, pero que no terminaban de encajar con lo que estaba buscando.
+
+> Evidentemente, el problema era mío. No había conseguido explicarlo bien.
+
+La autocrítica se mantuvo e incluso ganó peso («el problema era mío»). El juicio sobre los demás se suavizó: «Algunos, ni se acercan» desapareció.
+
 ## B08 — Propuesta de corrección, no confirmada
 **Tipo: PROPOSED_EDIT · Mismo borrador**
 
 > Creo que no supe explicarlo bien. El post y los DM se me llenaron de gente que se veía reflejada en ese perfil, aunque muchos no encajaban del todo. Algunos, ni se acercaban.
+
+La versión publicada (ver B07) no adopta esta redacción, aunque suaviza el juicio en una dirección parecida.
 
 ## B09 — Matiz frente a una regla simplista
 **Tipo: COEDITED_COMPARISON · Artículo Helmcode**
@@ -83,6 +101,8 @@ Una frase contundente funciona aquí porque resume una recomendación desarrolla
 ## B13 — Una idea partida en dos frases
 **Tipo: COEDITED_COMPARISON · Artículo Helmcode sobre notas de reuniones self-hosted, 11/08/2026**
 
+Versiones de un borrador interno. El texto final se reestructuró antes de publicarse como [«Crea tu propio Granola con modelos abiertos»](https://helmcode.com/es/posts/crea-tu-propio-granola) (helmcode.com, 05/09/2026), y estas frases no aparecen en él.
+
 Primera versión, escrita por un asistente de IA:
 
 > Capturar el micro es trivial en cualquier sistema. Capturar lo que suena por los altavoces depende del sistema operativo, y conviene decirlo sin adornos:
@@ -96,6 +116,8 @@ El autor señaló el patrón en su revisión: una sola idea repartida en dos fra
 ## B14 — Títulos con glosa tras dos puntos
 **Tipo: COEDITED_COMPARISON · Mismo artículo, 11/08/2026**
 
+Versiones de un borrador interno. El texto final se reestructuró antes de publicarse como [«Crea tu propio Granola con modelos abiertos»](https://helmcode.com/es/posts/crea-tu-propio-granola) (helmcode.com, 05/09/2026), y estas frases no aparecen en él.
+
 | Primera versión (IA) | Versión revisada |
 | --- | --- |
 | Paso 3: quién dijo qué, en tu máquina | Paso 3. Diariza en local |
@@ -106,5 +128,7 @@ El autor marcó el patrón `Etiqueta: glosa, con cola apositiva` como algo que d
 
 ## B15 — La introducción que resuelve un apartado posterior
 **Tipo: COEDITED_COMPARISON · Mismo artículo, 11/08/2026**
+
+Versiones de un borrador interno. El texto final se reestructuró antes de publicarse como [«Crea tu propio Granola con modelos abiertos»](https://helmcode.com/es/posts/crea-tu-propio-granola) (helmcode.com, 05/09/2026), y estas frases no aparecen en él.
 
 En la misma revisión, el autor señaló que la introducción adelantaba la conclusión de un apartado que venía después («Cuándo no montar esto»). La versión revisada deja que la introducción sitúe el problema y nada más. No se reproduce el párrafo completo.
