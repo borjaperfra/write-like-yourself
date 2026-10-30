@@ -1,0 +1,6 @@
+VOICE.md
+private/
+*.local.md
+.DS_Store
+private-corpus/
+*.private.md
